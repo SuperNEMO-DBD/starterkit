@@ -19,7 +19,9 @@ Here's a list of possible things to include. Might need to be pared down dependi
 
 **CCLyon**
 - Running falaise software in the singularity container
+  - Also CCLyon docs: https://doc.cc.in2p3.fr/en:logiciels:singularity?
 - Running batch jobs (including sample scripts)
+  - Onsite docs: https://doc.cc.in2p3.fr/en:utiliser_le_systeme_batch_ge_depuis_le_centre_de_calcul 
 - Where to write to (this might be more a matter of setting policy than sorting out any software stuff)
 - What's in MCC2 and how to access it
 - Anything we want to say about requesting more official MC
