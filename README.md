@@ -31,6 +31,7 @@ Here's a list of possible things to include. Might need to be pared down dependi
 
 
 **Analysis techniques**
+
 CP: I suspect we will not have time to do this at the collaboration meeting, but I am going to list these ideas because we could possibly put together some small training packages for the future, for people to look at in their own time. The idea I have in mind is small toy analyses of a small sample of simulation, for people to build up a bit at a time, maybe with some questions and answers to think about. Things like:
 - Making cuts/calculating a reconstruction efficiency
 - Calculating a sensitivity for a given exposure
