@@ -40,3 +40,5 @@ CP: I suspect we will not have time to do this at the collaboration meeting, but
 - Making cuts/calculating a reconstruction efficiency
 - Calculating a sensitivity for a given exposure
 - Very basic BDT to separate signal from background
+
+BM: Technology-wise, could be useful to look at [RDataFrame](https://indico.cern.ch/event/743070/), with tutorials in [the ROOT docs](https://root.cern.ch/doc/master/group__tutorial__dataframe.html). Current and future supported ROOT in Falaise (6.14/6.16) already have these _I think_.
