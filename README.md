@@ -27,6 +27,8 @@ Here's a list of possible things to include. Might need to be pared down dependi
 **Commissioning data**
 - Where it is on CCLyon
 - How to access it (at the moment everyone is working from the CRD files but that shouldn't be the case in the long term, should it?)
+  - Get the I/O Library Reader + Data Structures in place (BM)
+  - iRods/xrootd access?
 - How to interpret it (remembering that many people will not know what a PMT signal looks like, so we could do with a basic intro to the physics).
 
 
