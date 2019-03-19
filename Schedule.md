@@ -35,3 +35,4 @@
 -	MCC 2
 -	HPSS?
 -	Submitting jobs using Singularity (if we didn’t cover that earlier)
+- Accessing commissioning data
