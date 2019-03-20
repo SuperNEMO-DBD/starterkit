@@ -1,18 +1,20 @@
 # Intro (Cheryl -10 mins max)
 
-# CCLyon Part 1 (Ben ~ 15 mins)
+# CCLyon Part 1 (Yves ~ 15 mins)
+- Getting an account
 - How to connect
 - How to find your home area
-- The `/sps/nemo` area (but defer details to Yves)
+- The `/sps/nemo` area and `/hpss`
+- Ticket system
 - Where to get help
 - ~~How to find the central install of Falaise~~
   - There isn't one yet, expectation on use of `/cvmfs`
+
 
 # Falaise Part 1 (Ben)
 ## Getting started (~15 mins)
 - Singularity and native installs
   -	Building the singularity image 
-  - ~~Submitting jobs using Singularity (is this better later with the MCC2 stuff?)~~
   - Run/Exec/Shell commands
   - Binding directories
 - Starting a `snemo-shell` session
@@ -54,6 +56,5 @@
 
 # CCLyon part 2 (Yves)
 -	MCC 2
--	HPSS?
 -	Submitting jobs using Singularity
 - Accessing commissioning data
